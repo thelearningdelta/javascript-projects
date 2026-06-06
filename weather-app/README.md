@@ -15,6 +15,7 @@ open in vscode editor.
 - Set the api key after getting from website like said above.
 - Open live server in bottom of editor and open in browser.
 
-- Another way to get see projecy is download the repo and goto the
+## Other steps
+- Another way to get see project is download the repo and goto the
 project weather app and open script.js file in any editor see the API key.
 - Open the index.html in browser. yeah that works :)
